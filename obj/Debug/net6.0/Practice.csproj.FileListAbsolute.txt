@@ -1,0 +1,15 @@
+c:\Kalpana\Practice\bin\Debug\net6.0\Practice.exe
+c:\Kalpana\Practice\bin\Debug\net6.0\Practice.deps.json
+c:\Kalpana\Practice\bin\Debug\net6.0\Practice.runtimeconfig.json
+c:\Kalpana\Practice\bin\Debug\net6.0\Practice.dll
+c:\Kalpana\Practice\bin\Debug\net6.0\Practice.pdb
+c:\Kalpana\Practice\obj\Debug\net6.0\Practice.csproj.AssemblyReference.cache
+c:\Kalpana\Practice\obj\Debug\net6.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+c:\Kalpana\Practice\obj\Debug\net6.0\Practice.AssemblyInfoInputs.cache
+c:\Kalpana\Practice\obj\Debug\net6.0\Practice.AssemblyInfo.cs
+c:\Kalpana\Practice\obj\Debug\net6.0\Practice.csproj.CoreCompileInputs.cache
+c:\Kalpana\Practice\obj\Debug\net6.0\Practice.dll
+c:\Kalpana\Practice\obj\Debug\net6.0\refint\Practice.dll
+c:\Kalpana\Practice\obj\Debug\net6.0\Practice.pdb
+c:\Kalpana\Practice\obj\Debug\net6.0\Practice.genruntimeconfig.cache
+c:\Kalpana\Practice\obj\Debug\net6.0\ref\Practice.dll
